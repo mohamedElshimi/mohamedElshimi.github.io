@@ -1,13 +1,13 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm [Your Name], a passionate [Your Role/Title, e.g., "Full-Stack Developer"] dedicated to building innovative and efficient solutions. 🚀  
+Welcome to my GitHub profile! I'm Mohamed Elshimi, a passionate Front-End Developer dedicated to building innovative and efficient solutions. 🚀  
 
 ## 🌟 About Me
-- 🔭 Currently working on **[your current project or area of focus]**.
+- 🔭 Currently working on **Cairo House Development**.
 - 🌱 Learning **[technologies/tools you're currently exploring]**.
-- 💡 Interested in **[your interests, e.g., "web development, cloud computing, and AI"]**.
-- 🎯 Goals: **[your short-term/long-term goals, e.g., "contribute to open source" or "launch a SaaS product"]**.
-- 💬 Ask me about **[your areas of expertise, e.g., "Vue.js, Laravel, or Nuxt.js"]**.
+- 💡 Interested in **Web Development**.
+- 🎯 Goals: **launch a SaaS product**.
+- 💬 Ask me about **Nuxt Js**.
 
 ## 🚀 Technologies & Tools
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I'm [Your Name], a passionate [Your Role/Title, e.
 
 ## 🛠️ Projects
 Here are some of my key projects:
-- 🔐 **[Project 1 Name](#)** - Description of what it does.
-- 🌟 **[Project 2 Name](#)** - Description of what it does.
+- 🔐 **Prindustry(#)** - Contributed to the development of platform for digital and print product management, facilitating seamless online ordering and production workflows.
+- 🌟 **Bedayaat Nursery(#)** - Childcare System with APIs, e-commerce, and multiple payment gateways.
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
